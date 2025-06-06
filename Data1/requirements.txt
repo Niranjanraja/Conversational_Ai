@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+python-dotenv
+numpy
+pandas
+langchain-groq
+ipykernel
+langchain-core
+langchain-community
+faiss-cpu
